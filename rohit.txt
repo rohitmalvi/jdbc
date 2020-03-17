@@ -1,0 +1,47 @@
+mokito annotation
+@Mock
+@Spy
+@InjectMocks
+@Captor
+
+hiberante 
+show_sql
+dilect
+hbm2ddl.uato->create ,update, validate ,create-drop 
+->validate programer own create table
+marker interface
+jpa->java percistance.*
+@entity
+@id
+@table
+@column
+
+spring
+@ControllerAdvice
+s a specialization of the @Component annotation which allows to 
+handle exceptions across the whole application in one global handling component.
+It can be viewed as an interceptor of exceptions 
+thrown by methods annotated with @RequestMapping and similar
+
+
+Spring Boot Actuator is a sub-project of the Spring Boot Framework. 
+It includes a number of additional features that help us to monitor and manage 
+the Spring Boot application. ... We can use HTTP and JMX endpoints to manage and
+monitor 
+the Spring Boot application
+
+time->
+@Temporial
+
+The ConcurrentModificationException occurs when an object is tried 
+to be modified concurrently when it is not permissible. This exception usually
+ comes when one is working with Java Collection classes. For Example - It is not 
+permissible for a thread to modify a
+ Collection when some other thread is iterating over it
+
+
+The ConcurrentModificationException occurs when an object is tried to be modified 
+concurrently when it is not permissible. This exception usually comes when one is
+ working with Java Collection classes. For Example - It is not permissible for a 
+thread to modify a 
+Collection when some other thread is iterating over it.
